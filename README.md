@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Muhammad Uzair Khan 👋
 
-<!--
-**uzairniazi313/uzairniazi313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student  
+🐍 Python Developer  
+🤖 AI & Machine Learning Enthusiast  
+📊 Data Science Learner
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about Python, Artificial Intelligence, Machine Learning, and Data Science.
+
+I enjoy building practical projects, learning new technologies, and solving programming problems.
+
+## 🛠️ Skills
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Data Science
+
+## 🎯 Goal
+
+To become a skilled AI/ML Engineer and Software Developer by continuously learning and building real-world projects.
+
+## 🚀 Let's Build & Learn Together!
