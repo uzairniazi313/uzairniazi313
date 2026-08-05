@@ -39,7 +39,7 @@ I enjoy learning new technologies, building practical projects, solving programm
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,jupyter,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,mysql" />
 
 </p>
 
